@@ -21,3 +21,4 @@ if(money){
 }else{
     console.log("You should get a Job!");
 }
+
