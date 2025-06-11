@@ -1,26 +1,27 @@
-// Values - values are specific set of data values
-//Variables - Variables are the containers for storing data values,so we can resuse them.
+let js = "amazing";
+console.log(40 + 8 + 23 - 10);
 
+////////////////////////////////////
 // Values and Variables
-console.log("Vinay");
-console.log(31);
+console.log("Jonas");
+console.log(23);
 
-let firstName = "Paush";
-let lastName = "Daware";
+let firstName = "Matilda";
 
 console.log(firstName);
-console.log(lastName);
+console.log(firstName);
+console.log(firstName);
 
-//Variable name convention
-let paush_daware = "PD";
-let $function = 18;
-let person = "Paush";
+// Variable name conventions
+let jonas_matilda = "JM";
+let $function = 27;
+
+let person = "jonas";
 let PI = 3.1415;
 
-//Correct way of declaring the variables
-let myFirstJob = "Programmer";
+let myFirstJob = "Coder";
 let myCurrentJob = "Teacher";
 
-//Incorrect way of declaring the variables
-let job1 = "Programmer";
-let job2 = "Teacher";
+let job1 = "programmer";
+let job2 = "teacher";
+console.log(myFirstJob);
