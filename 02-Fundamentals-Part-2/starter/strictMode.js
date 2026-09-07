@@ -1,4 +1,4 @@
-'use strict'; // this syntax is used to activate strict mode at script level
+'use strict'; // this syntax is used to activate strict mode at script level.  It catches errors and prevents unsafe coding practices
 
  let hasDriversLicense = false;
  const passTest = true;
